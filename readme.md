@@ -29,4 +29,4 @@ python main.py --dataset MDA --types hete --exp_name indep   ###independent test
 
 **Contact**
 
-Please feel free to contact us if you need any help.# SubKNet
+Please feel free to contact us if you need any help.
